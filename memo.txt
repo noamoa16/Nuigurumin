@@ -1,0 +1,4 @@
+colors = {WHITE, PURPLE, RED, BLUE, YELLOW};
+count1 = 2284245091
+count2 = 479422808
+filled = 100881936
